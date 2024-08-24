@@ -79,5 +79,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or support, please reach out to:
 
-- **Email**: donaldaadithiyan@example.com
+- **Email**: donaldaadithiyan@gmail.com
 - **GitHub**: [DonaldAadithiyan](https://github.com/DonaldAadithiyan)
